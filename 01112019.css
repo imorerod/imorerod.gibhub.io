@@ -1,0 +1,11 @@
+#container {
+	margin: 10px 100px 10px 100px;
+	padding: 100px 150px 100px 150px;
+	border-radius: 15px;
+	background-color: #a4b9db;
+	text-align: center;
+}
+
+h3{text-align: left;}
+p{text-align: right;}
+body {background-color: #556a8c;}
