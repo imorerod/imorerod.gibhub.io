@@ -1,14 +1,20 @@
 #container {
-	margin: 10px 50px 10px 50px;
-	padding: 50px 75px 50px 75px;
-	border-radius: 15px;
-	background-color: #a4b9db;
-	text-align: center;
+	max-width: 700px;
+	margin: auto;
+	font-family: Arial, Helvetica, sans-serif;
 }
+#content-contact{
+	padding: 20px 100px 20px 100px;
+	border-style: solid;
+	border-radius: 15px;
+	border-width: 10px;
+	text-align: center}
 
-h3{text-align: left;}
-p{text-align: left;}
+h1{font-size: 45px;}
+h2{font-size: 20px;}
+h3{text-align: left; font-size: 25px; border-bottom-style: solid;}
+p{text-align: left; font-size: 18px; font-style: italic;}
+li{font-size: 16px;}
 body {background-image: url("http://www.theoldmarket.com/wp-content/uploads/2014/09/white-christmas-light-background.jpg");
 	background-size: cover;
-	
 	}
